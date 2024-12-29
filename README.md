@@ -32,7 +32,7 @@ Bu Python projesi, kullanıcıların kayıt olmasını, güvenli bir şekilde gi
 ### Adım 1: Depoyu Klonlayın
 
 ```bash
-git clone https://github.com/kullaniciadi/kullanici-yonetim-sistemi.git
+git clone https://github.com/haticezrnc/KullanıcıYönetimveGüvenlikSistemi.git
 cd kullanici-yonetim-sistemi
 
 ### Adım 2: Gerekli Kütüphaneleri Yükleyin
